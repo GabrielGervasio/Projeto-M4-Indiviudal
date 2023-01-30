@@ -1,6 +1,6 @@
-create database Projeto_m3;
+create database Projeto_m4;
 
-use Projeto_m3;
+use Projeto_m4;
 
 create table Alunos (
 Matricula int not null primary key auto_increment,
